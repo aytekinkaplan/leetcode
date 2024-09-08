@@ -13,6 +13,3 @@ const generateGrid = (rows, cols, className) => {
 };
 
 generateGrid(4, 4, "container");
-generateGrid(3, 3, "container");
-generateGrid(5, 5, "container");
-generateGrid(6, 6, "container");
