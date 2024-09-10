@@ -1,2 +1,2 @@
-# leetcode
+# leetcodeJS
 leetcode sols
